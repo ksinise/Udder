@@ -31,16 +31,16 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="UdderCow" translatesAutoresizingMaskIntoConstraints="NO" id="Ndv-B5-3UG">
-                                <rect key="frame" x="16" y="321" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk" translatesAutoresizingMaskIntoConstraints="NO" id="bPL-Hr-iil">
-                                <rect key="frame" x="134" y="321" width="240" height="128"/>
+                                <rect key="frame" x="144" y="308" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SplashyMilk" translatesAutoresizingMaskIntoConstraints="NO" id="QIz-8J-VtQ">
-                                <rect key="frame" x="76" y="472" width="240" height="128"/>
+                                <rect key="frame" x="76" y="427" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="UdderCow" translatesAutoresizingMaskIntoConstraints="NO" id="Ndv-B5-3UG">
+                                <rect key="frame" x="16" y="308" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
